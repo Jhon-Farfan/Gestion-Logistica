@@ -1,0 +1,11 @@
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhon\Desktop\GESTION LOGISTICA\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
